@@ -4,5 +4,11 @@
     "content": "Project-Plants hilft dir, den Überblick über deine Pflanzen zu behalten. Erfasse deine Pflanzen mit den wichtigsten Merkmalen wie Wasserbedarf, optimaler Standort oder ob die Pflanze auch den Winter draussen überlebt. Dabei hilft dir unsere umfangreiche Pflanzen-Datenbank, basierend auf den Daten aus “Mein schöner Garten” und “Pflanzen für unsere Gärten”. Behalte den Überblick über wann du zum Beispiel eine Pflanze das letzte Mal gedüngt, oder gegossen hast. Project-Plants ist 100% Open-source und funktioniert komplett offline auf deinem Gerät. Das App Logo wurde von “Pixel perfect” (siehe Flaticon) erstellt . ",
     "url": "https://project-plants.ch/",
     "relUrl": "/"
+  },"1": {
+    "doc": "Datenschutzerklärung",
+    "title": "Datenschutzerklärung",
+    "content": "Datenschutzerklärung . ",
+    "url": "https://project-plants.ch/docs/privacy-policy.html",
+    "relUrl": "/docs/privacy-policy.html"
   }
 }
