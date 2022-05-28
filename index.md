@@ -15,3 +15,5 @@ Behalte den Überblick über wann du zum Beispiel eine Pflanze das letzte Mal ge
 Project Plants ist 100% Open-source und funktioniert komplett offline auf deinem Gerät.
 
 Das App Logo wurde von "Pixel perfect" (siehe Flaticon) erstellt .
+
+[![Laden im App Store](assets/images/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg)](https://apps.apple.com/ch/app/project-plants/id1563761464)
